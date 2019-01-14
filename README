@@ -1,0 +1,20 @@
+Output example:
+
+********** Solving Problem  # **********
+# TIME  103ms
+# TIME  0.10s
+# SOL 31875000
+31875000
+
+Repo structure example:
+root || lang1 || 001 || 001.sb.lang_extension || 001.mt.lang_extension ||002 || 003 | _lang2 ||001 || 001.sb.lang_ext
+
+Filename example:
+
+nnn.yyy.user.lang_ext
+
+where
+nnn = problem code
+yyy = version code
+user = author
+lang_ext = c/cpp/php/rb/pl/sh/etc etc...
